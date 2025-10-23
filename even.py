@@ -7,3 +7,4 @@ while i<=n:
 print("end")
 print("hello")
 print("end")
+print("welcome")
