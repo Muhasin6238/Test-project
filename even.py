@@ -5,4 +5,6 @@ while i<=n:
 	print(i)
 	i=i+2
 print("end")
+print("hello")
+print("end")
 print("welcome")
